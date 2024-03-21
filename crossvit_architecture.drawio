@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T06:57:28.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2spnUWNuF-BA-BZFl8HZ" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T06:58:45.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="us4ZsvvgDEtwK13KeAsk" version="22.1.17" type="github">
   <diagram name="crossvit_architecture" id="GDlJGWd4jcVvS-mw2g_D">
     <mxGraphModel dx="2625" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="KM772H3w4l41oBG0FjEM-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1005" y="1210" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KM772H3w4l41oBG0FjEM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.722;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KM772H3w4l41oBG0FjEM-70" target="KM772H3w4l41oBG0FjEM-33">
+        <mxCell id="KM772H3w4l41oBG0FjEM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.722;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="KM772H3w4l41oBG0FjEM-70" target="KM772H3w4l41oBG0FjEM-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
